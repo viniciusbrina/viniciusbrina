@@ -103,7 +103,7 @@ Design Gráfico:
 
 <div align="center">
 
-📧 **Email:** [seu.email.profissional@gmail.com](mailto:seu.email.profissional@gmail.com)  
+📧 **Email:** [viniciusbrina@gmail.com](mailto:viniciusbrina@gmail.com)  
 📱 **Telefone:** (48) 99930-4456  
 🔗 **LinkedIn:** [linkedin.com/in/viniciusbrina](https://linkedin.com/in/viniciusbrina)  
 📍 **Localização:** Morro da Fumaça - SC, Brasil
@@ -119,3 +119,15 @@ Design Gráfico:
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciusbrina&color=blue&style=flat-square)
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
