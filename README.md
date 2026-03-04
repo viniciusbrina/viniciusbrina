@@ -99,6 +99,30 @@ Design Gráfico:
 
 ---
 
+
+## 📊 Habilidades Técnicas
+
+### 💻 Desenvolvimento
+![HTML5](https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-80%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-85%25-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-75%25-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)
+
+### 🛠️ Ferramentas & Sistemas
+![Windows](https://img.shields.io/badge/Windows-95%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-70%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-90%25-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🤖 IA & Automação
+![ChatGPT](https://img.shields.io/badge/ChatGPT-85%25-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-80%25-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+
+---
 ## 📫 Entre em Contato
 
 <div align="center">
