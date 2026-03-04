@@ -81,7 +81,7 @@ Design Gráfico:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusbrina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-stats.vercel.app/api?username=viniciusbrina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbrina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
