@@ -119,8 +119,8 @@ Design Gráfico:
 ![VS Code](https://img.shields.io/badge/VS%20Code-90%25-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🤖 IA & Automação
-![ChatGPT](https://img.shields.io/badge/ChatGPT-85%25-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Tools-80%25-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-90%25-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![AI Tools](https://img.shields.io/badge/ChatGPT-90%25-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 ## 📫 Entre em Contato
