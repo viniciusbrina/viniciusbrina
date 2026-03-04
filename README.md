@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ola! Eu sou Vinicius Feliciano Brina
 
-<!--
-**viniciusbrina/viniciusbrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Suporte Tecnico | Desenvolvimento Web | UX/UI Design
 
-Here are some ideas to get you started:
+### Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profissional de TI com experiencia em suporte tecnico, manutencao de hardware e configuracao de sistemas. Utilizo ferramentas de IA para otimizar processos.
+
+### O que eu faco
+
+- Suporte Tecnico presencial e remoto
+- Manutencao de Hardware (RAM, HD/SSD, fontes)
+- Desenvolvimento Web com Vibe Coding e IA
+- Design Grafico e identidade visual
+- Automacao com IA
+
+### Habilidades
+
+**Hardware:** Diagnostico, montagem de PCs, manutencao
+
+**Sistemas:** Windows 10/11, Drivers, Seguranca
+
+**Dev:** HTML/CSS, Logica de Programacao, IA Generativa
+
+**Design:** Canva, Photoshop
+
+### Contato
+
+- Morro da Fumaca - SC, Brasil
+- [LinkedIn](https://linkedin.com/in/viniciusbrina)
+- (48) 99930-4456
