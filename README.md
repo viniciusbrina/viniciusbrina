@@ -120,7 +120,7 @@ Design Gráfico:
 
 ### 🤖 IA & Automação
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-90%25-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![AI Tools](https://img.shields.io/badge/ChatGPT-90%25-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-90%25-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
 ---
 ## 📫 Entre em Contato
