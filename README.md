@@ -111,7 +111,7 @@ Design Gráfico:
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-80%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-85%25-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-75%25-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-35%25-FF6B6B?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 🛠️ Ferramentas & Sistemas
 ![Windows](https://img.shields.io/badge/Windows-95%25-0078D6?style=for-the-badge&logo=windows&logoColor=white)
