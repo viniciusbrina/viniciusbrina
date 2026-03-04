@@ -103,10 +103,10 @@ Design Gráfico:
 ## 📊 Habilidades Técnicas
 
 ### 💻 Desenvolvimento
-![HTML5](https://img.shields.io/badge/HTML5-60%25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-60%25%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/50%25-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-40%25%25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-60%25%25-40%25?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/50%35%25-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-45%25%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding%20(IA)-95%25-00D9FF?style=for-the-badge&logo=sparkles&logoColor=white)
 
 ### 🎨 Design
