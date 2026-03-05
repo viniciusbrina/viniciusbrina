@@ -146,10 +146,10 @@ Olá! Sou **Vinicius Feliciano Brina**, um profissional de TI apaixonado por tec
 
 | Habilidade | Nível | Progresso |
 |:---|:---:|:---|
-| 🛠️ **Suporte Técnico** | Expert | ![95%](https://progress-bar.dev/95/?width=200&color=10B981) |
-| 🤖 **Vibe Coding (IA)** | Expert | ![95%](https://progress-bar.dev/95/?width=200&color=8B5CF6) |
+| 🛠️ **Suporte Técnico** | Expert | **95/100** ![95%](https://progress-bar.dev/95/?width=200&color=10B981) |
+| 🤖 **Vibe Coding (IA)** | Expert | **95/100** ![95%](https://progress-bar.dev/95/?width=200&color=8B5CF6) |
 | 💬 **ChatGPT & IA** | Avançado | ![90%](https://progress-bar.dev/90/?width=200&color=06B6D4) |
-| 🖥️ **Windows** | Expert | ![95%](https://progress-bar.dev/95/?width=200&color=0078D6) |
+| 🖥️ **Windows** | Expert | **95/100** ![95%](https://progress-bar.dev/95/?width=200&color=0078D6) |
 | 🎨 **Canva** | Avançado | ![85%](https://progress-bar.dev/85/?width=200&color=00C4CC) |
 | 🎨 **Figma** | Intermediário | ![80%](https://progress-bar.dev/80/?width=200&color=F24E1E) |
 | 🌐 **HTML/CSS** | Básico | ![40%](https://progress-bar.dev/40/?width=200&color=E34F26) |
