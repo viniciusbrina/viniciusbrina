@@ -21,29 +21,59 @@
 
 ---
 
-## 🚀 Sobre Mim
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Sobre Mim
 
-```javascript
-const vinicius = {
-    nome: "Vinicius Feliciano Brina",
-    localização: "Morro da Fumaça - SC, Brasil",
-    áreas: ["Suporte Técnico", "Desenvolvimento Web", "UX/UI Design"],
-    especialidade: "Vibe Coding com IA 🤖",
-    
-    habilidades: {
-        suporte: ["Diagnóstico de falhas", "Manutenção de PCs", "Windows 10/11"],
-        desenvolvimento: ["HTML", "CSS", "JavaScript", "Vibe Coding + IA"],
-        design: ["Figma", "Canva", "Photoshop", "UX/UI"],
-        ia: ["ChatGPT", "Claude", "Copilot", "Ferramentas de IA"]
-    },
-    
-    atualmente: {
-        estudando: "UX/UI Design 🎨",
-        trabalhando: "Projetos Freelancer 💼",
-        objetivo: "Criar experiências digitais incríveis ✨"
-    }
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Quem sou eu?
+
+Olá! Sou **Vinicius Feliciano Brina**, um profissional de TI apaixonado por tecnologia e inovação!
+
+🔧 **Suporte Técnico** - Diagnóstico e manutenção de hardware/software
+
+🌐 **Desenvolvimento Web** - Criação de sites com **Vibe Coding + IA**
+
+🎨 **UX/UI Design** - Cursando para criar experiências incríveis
+
+🤖 **Especialista em IA** - Uso avançado de ferramentas de IA
+
+</td>
+<td width="50%">
+
+### 🎯 Atualmente
+
+🔭 **Trabalhando em:** Projetos Freelancer
+
+🌱 **Estudando:** UX/UI Design
+
+💡 **Especialidade:** Vibe Coding com IA
+
+🎯 **Objetivo:** Criar soluções digitais inovadoras
+
+⚡ **Fun fact:** Transformo ideias em realidade usando IA!
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🚀 Minhas Especialidades
+
+<img src="https://img.shields.io/badge/🛠️_Suporte_Técnico-Expert-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_Vibe_Coding_+_IA-Expert-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💬_ChatGPT_&_IA-Avançado-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎨_Design-Intermediário-F24E1E?style=for-the-badge"/>
+
+</div>
+
+---
 
 <div align="center">
 
