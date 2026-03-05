@@ -10,8 +10,8 @@
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusbrina)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusbrina)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999304456)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusbrina@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999930456)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusf.brina@gmail.com)
 
 <br>
 
@@ -183,15 +183,15 @@ Olá! Sou **Vinicius Feliciano Brina**, um profissional de TI apaixonado por tec
 
 | 📧 Email | 📱 Telefone | 🔗 LinkedIn | 📍 Localização |
 |:---:|:---:|:---:|:---:|
-| viniciusbrina@gmail.com | (48) 99930-4456 | [/in/viniciusbrina](https://linkedin.com/in/viniciusbrina) | Morro da Fumaça - SC |
+| viniciusf.brina@gmail.com | (48) 99930-4456 | [/in/viniciusbrina](https://linkedin.com/in/viniciusbrina) | Morro da Fumaça - SC |
 
 <br>
 
 ### 💬 Vamos conversar!
 
-[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999304456)
+[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999930456)
 [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciusbrina)
-[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusbrina@gmail.com)
+[![Email](https://img.shields.io/badge/Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusf.brina@gmail.com)
 
 </div>
 
